@@ -1,1 +1,1 @@
-# Blazing Pizza
+# Blazing Pizza Workshop
